@@ -2,7 +2,7 @@ package com.BridgeLabz;
 
 import java.util.Scanner;
 
-public class LeapYear {
+class LeapYear {
     public static void main(String[] args) {
         Scanner year = new Scanner(System.in);
         System.out.println("Enter the year you want to check");
